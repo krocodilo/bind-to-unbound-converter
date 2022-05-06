@@ -1,0 +1,9 @@
+; Here is the 1st comment
+hostname01	A	10.1.0.29
+hostname02	IN A	10.1.0.30		;This is an inline comment
+
+;Anothr comment
+machine01 A 10.1.0.31					;Inline;comment ;with ;more than one ;comment indicator
+
+; Another commmmmment
+equipment	CNAME	10.1.0.35
